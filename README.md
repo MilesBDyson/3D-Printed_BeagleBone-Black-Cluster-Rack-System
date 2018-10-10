@@ -7,3 +7,5 @@ Detailed Guide to setting up the BeagleBone Black's
      https://www.thingiverse.com/thing:3047846
 Images of the assembled rack
      https://imgur.com/a/3oz5G
+Python programs on github.com
+     https://github.com/MilesBDyson/BeagleBone-Black-Cluster-Rack-System
