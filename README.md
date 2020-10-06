@@ -1,5 +1,5 @@
 # BeagleBone-Black-Cluster-Rack-System
-This is a 3D printable rack system for the BeagleBone Black
+This is a 3D printed rack system for the BeagleBone Black
 
 ![alt text](https://i.imgur.com/FNboVRP.jpg)
 
